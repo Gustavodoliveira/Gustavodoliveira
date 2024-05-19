@@ -4,7 +4,7 @@
   <img height:"130em" src="https://github-readme-stats.vercel.app/api?username=gustavodoliveira&show_icons=true&theme=jolly&count_private=true" />
   <img height:"110em" style="margin-left: 1000em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodoliveira&theme=jolly&layout=compact"/>
 </div>
-
+<h2>Tecnologias que uso </h2>
 <div style="display: inline_block"></br>
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />

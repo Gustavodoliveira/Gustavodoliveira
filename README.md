@@ -1,6 +1,4 @@
-### Ola eu sou o Gustavo👋
-- 🔭 Atualmente estou estudando sobre FullStack e React Native
-</br>
+### Ola eu sou o Gustavo Desenvolvedor FullStack👋
 </br>  
 <div>
   <img height:"130em" src="https://github-readme-stats.vercel.app/api?username=gustavodoliveira&show_icons=true&theme=jolly&count_private=true" />

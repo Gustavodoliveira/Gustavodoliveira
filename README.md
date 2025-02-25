@@ -7,7 +7,7 @@ Me chamo Gustavo de oliveira e tenho 19 anos, e atualmente estou cursando Ciênc
 </br>  
 <div>
   <img height:"130em" src="https://github-readme-stats.vercel.app/api?username=gustavodoliveira&show_icons=true&theme=jolly&count_private=true" />
-  <img height:"110em" style="margin-left: 1000em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodoliveira&theme=jolly&layout=compact"/>
+  <img height:"110em" style="margin-left: 1000em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodoliveira&theme=tokyonight&layout=compact"/>
 </div>
 <h2>Tecnologias que uso </h2>
 <div style="display: inline_block"></br>

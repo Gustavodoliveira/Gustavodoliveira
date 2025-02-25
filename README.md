@@ -1,4 +1,7 @@
-### Ola eu sou o Gustavo Desenvolvedor FullStack👋
+### Gustavo de Oliveira 👋
+**`Desenvolvedor Full Stack`**
+Me chamo Gustavo de oliveira e tenho 19 anos, e atualmente estou cursando Ciência da computação, você pode me encontar no linkedin "[Gustavo](https://www.linkedin.com/in/gustavo-oliveira-5465782b3/)" onde compartilho meus projetos 
+
 </br>  
 <div>
   <img height:"130em" src="https://github-readme-stats.vercel.app/api?username=gustavodoliveira&show_icons=true&theme=jolly&count_private=true" />

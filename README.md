@@ -1,9 +1,12 @@
-<h1 align="center">⚡ Gustavo Oliveira</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:00F7FF&height=220&section=header&text=Gustavo%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descAlignY=68"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=700&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=gustavo%40astralis%3A~%24+initialize+system;gustavo%40astralis%3A~%24+loading+modules...;gustavo%40astralis%3A~%24+backend+engine+online;gustavo%40astralis%3A~%24+database+connected;gustavo%40astralis%3A~%24+building+real+systems" alt="Terminal Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot;Building+Scalable+Systems;Astralis+Systems" />
 </p>
+
+
 
 ## ⚙️ TECH.STACK
 
@@ -19,9 +22,14 @@
 ---
 
 ## 🧠 GITHUB.ANALYTICS
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gustavodoliveira&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Gustavodoliveira&theme=tokyonight&hide_border=true" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gustavodoliveira&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavodoliveira&theme=tokyonight" /> </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavodoliveira&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F7FF&point=00F7FF&color=FFFFFF" />
+</p>
 
 
 ## 📬 CONTACT
